@@ -2,8 +2,6 @@ module BookKeeping
   VERSION = 2
 end
 
-require 'pry'
-
 class RunLengthEncoding
 
   def self.encode(input)
